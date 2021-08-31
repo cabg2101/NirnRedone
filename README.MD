@@ -45,4 +45,5 @@ Large SVG files (over 50 MB) must be stored with Git LFS. Optimized versions can
 ### Special Thanks
 
 - Koveich: creator of the [Sovngarde font](https://www.nexusmods.com/skyrimspecialedition/mods/386);
+- [Project Tamriel](https://project-tamriel.com): color scheme taken from their maps;
 - DeFlame: creator of the [original Skyrim map](https://www.reddit.com/r/imaginarymaps/comments/dut8n4/skyrim_3e_365/).
