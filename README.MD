@@ -13,13 +13,13 @@ Maps are created as SVG files to be viewed and printed at any scale. Some idiosy
 
 <hr>
 
-## Contribution
+### Contribution
 
 If you wish to contribute to this project, you can fork it, work on your own map, and send a pull request here to integrate it. If you want it added to the main repository, I'd appreciate if you could follow the design guidelines [here](./STYLE.MD).
 
 <hr>
 
-## Progress:
+### Progress:
 
 <ul>
   <li>
