@@ -1,8 +1,12 @@
 # Design Guidelines
 
+### General
+
+- Reuse borders from adjacent provinces, so they can be stitched together to create entire continent maps.
+
 ### Font
 
-- Font: [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386)
+- Font (must be installed on your computer): [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386)
 - Font size: 
   - Settlements: 11 (small), 18 (medium), 28 (large);
   - Holds (or equivalent): 18 (minor political power), 28 (major political power);
