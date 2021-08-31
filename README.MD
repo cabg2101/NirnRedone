@@ -15,14 +15,34 @@ Maps are created as SVG files to be viewed and printed at any scale. Some idiosy
 
 ### Contribution
 
-If you wish to contribute to this project, you can fork it, work on your own map, and send a pull request here to integrate it. If you want it added to the main repository, I'd appreciate if you could follow the design guidelines [here](./STYLE.MD).
+If you wish to contribute to this project, you can fork it, work on your own map, and send a pull request here to integrate it. SVG files can be worked on in Adobe Illustrator or Inkscape, the latter being a free and open source option. If you want it added to the main repository, I'd appreciate if you could follow the design guidelines [here](./STYLE.MD).
+
+Large SVG files (over 50 MB) must be stored with Git LFS. Optimized versions can be created by running them through [SVGO](https://jakearchibald.github.io/svgomg/). You should never work on the optimized version: it's intended to be a final product.
 
 <hr>
 
 ### Progress:
 
-<ul>
-  <li>
-    <p><a href="./SKYRIM/skyrim_redone.svg">Skyrim</a>: missing topography.</p> 
-  </li>
-</ul>
+
+<details>
+  <summary>
+    <a href="./SKYRIM/skyrim_redone.svg">Skyrim</a>:
+  </summary>
+  <p>
+    <ul>
+      <li>
+        Missing topography;
+      </li>
+      <li>
+        Missing thane, hilmr, and kirk allegiances.
+      </li>
+    </ul>
+  </p>
+</details>
+
+<hr>
+
+### Special Thanks
+
+- Koveich: creator of the [Sovngarde font](https://www.nexusmods.com/skyrimspecialedition/mods/386);
+- DeFlame: creator of the [original Skyrim map](https://www.reddit.com/r/imaginarymaps/comments/dut8n4/skyrim_3e_365/).
