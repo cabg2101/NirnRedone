@@ -21,7 +21,7 @@
 ### Color
 
 - Borders: #000000;
-- Land: #DEC7B0 (main), #B6B2A7 (adjacent);
+- Land: #DEC7B0 (main), #CABCAA / #B6B2A7 (adjacent);
 - Water: #85A4B3;
 - Text: #000000 (main), #FFFFFF (text in water), #85A4B3 (water on land);
 - Topography: TBD.
