@@ -39,6 +39,9 @@ Large SVG files (over 50 MB) must be stored with Git LFS. Optimized versions can
         Missing topography;
       </li>
       <li>
+        Missing roads;
+      </li>
+      <li>
         Missing thane, hilmr, and kirk allegiances.
       </li>
     </ul>
