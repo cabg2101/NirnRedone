@@ -23,6 +23,7 @@
 - Borders: #000000;
 - Land: #DEC7B0 (main), #CABCAA / #B6B2A7 (adjacent);
 - Water: #85A4B3;
+- Lava: #ED2939;
 - Mountains: #000000;
 - Text: #000000 (main, mountain text on mountain), #FFFFFF (text in water, mountain text on land), #85A4B3 (water on land).
 
