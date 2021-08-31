@@ -19,6 +19,11 @@ If you wish to contribute to this project, you can fork it, work on your own map
 
 Large SVG files (over 50 MB) must be stored with Git LFS. Optimized versions can be created by running them through [SVGO](https://jakearchibald.github.io/svgomg/). You should never work on the optimized version: it's intended to be a final product.
 
+#### Requirements
+
+- Inkscape or Adobe Illustrator;
+- Git + Git LFS.
+
 <hr>
 
 ### Progress:
