@@ -26,25 +26,25 @@ Large SVG files (over 50 MB) must be stored with Git LFS. Optimized versions can
 
 <hr>
 
-### Progress:
-
+### Progress
 
 <details>
   <summary>
-    <a href="./SKYRIM/skyrim_redone.svg">Skyrim</a>:
+    <a href="./SKYRIM/skyrim_redone.svg">Skyrim</a>
   </summary>
   <p>
-    <ul>
-      <li>
-        Missing topography;
-      </li>
-      <li>
-        Missing roads;
-      </li>
-      <li>
-        Missing thane, hilmr, and kirk allegiances.
-      </li>
-    </ul>
+
+- [x] Province border
+- [x] Hold borders
+- [x] Settlements
+- [x] Escutcheons
+- [x] Water
+- [x] Names
+- [x] Legend
+- [ ] Relief
+- [ ] Roads
+- [ ] Terrain (forest / rock / snow)
+- [ ] Allegiance (kirk / hilmr / thane)
   </p>
 </details>
 
