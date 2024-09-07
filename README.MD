@@ -43,6 +43,7 @@ Large SVG files (over 50 MB) must be stored with Git LFS. Optimized versions can
 - [x] Legend
 - [ ] Relief
 - [ ] Roads
+- [ ] Cave systems
 - [ ] Terrain (forest / rock / snow)
 - [ ] Allegiance (kirk / hilmr / thane)
   </p>
